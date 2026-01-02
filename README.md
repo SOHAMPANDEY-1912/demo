@@ -1,3 +1,3 @@
 # demo
 my first github profile
-i am soham pandey
+i am soham pandey (ECE)
